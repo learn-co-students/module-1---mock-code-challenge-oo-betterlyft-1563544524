@@ -7,7 +7,7 @@ You are building an app for a Lyft/Uber competitor. The models that you will use
   - A Passenger has many rides
   - A Driver has many rides
   - A Ride belongs to a passenger and a driver
-  
+
 Always start by drawing out the relationship either on a whiteboard or piece of paper. Think about how each of these models will be connected. From there then begin writing code.
 
 ## Deliverables
