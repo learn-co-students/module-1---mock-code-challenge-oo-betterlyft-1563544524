@@ -7,4 +7,6 @@ end
 
 # Put your variables here~!
 
+Passenger.new('Varun')
+
 binding.pry
